@@ -4,6 +4,7 @@ metadata:
   name: 99-charts
   annotations:
     github.com/project-slug: andrimuhyidin99/99-charts
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
