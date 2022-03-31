@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 99-charts
+  annotations:
+    github.com/project-slug: andrimuhyidin99/99-charts
+spec:
+  type: other
+  lifecycle: unknown
+  owner: infrastructure
