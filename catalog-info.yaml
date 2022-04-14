@@ -4,7 +4,7 @@ metadata:
   name: 99-charts
   annotations:
     github.com/project-slug: andrimuhyidin99/99-charts
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: https://99dotco.atlassian.net/wiki/spaces/~6225da8614cd2400690a6f7d/pages/2808283687/Evaluation+of+AWS+Cost+Reports+and+Resource+Usage+for+cost-saving+Report+March+2022
 spec:
   type: other
   lifecycle: unknown
